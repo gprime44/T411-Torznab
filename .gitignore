@@ -2,3 +2,5 @@
 config.json
 .idea/*
 node_modules/
+/.settings/
+/.project
